@@ -1,0 +1,1 @@
+# MSSQL-CREATE-TABLE-script-generator
